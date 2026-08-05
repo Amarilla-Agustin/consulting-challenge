@@ -1,5 +1,8 @@
 # 📊 TalentHub - Análisis de Vacantes para un Bootcamp de Data Analytics
-
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter)
 ## 📖 Descripción del proyecto
 
 Este proyecto tiene como objetivo analizar un conjunto de vacantes laborales relacionadas con perfiles de análisis de datos para identificar las habilidades, tecnologías y perfiles más demandados por el mercado.
