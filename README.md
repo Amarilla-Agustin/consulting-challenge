@@ -121,7 +121,7 @@ talenthub-analisis/
 │
 ├── notebooks/
 │   └── TalentHub_Analisis.ipynb
-│
+│── presentation/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
